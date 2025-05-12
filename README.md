@@ -65,22 +65,28 @@ Data was structured for effective extraction, transformation, loading (ETL), and
 This multi-page report consists of:
 
 1. 🏠 **Home View**
- https://github.com/dilipkumar6416/Business-insights-360/blob/main/Home.PNG
+ ![Image](https://github.com/dilipkumar6416/Business-insights-360/blob/main/Home.PNG)
+
 
 2. 💰 **Finance View**
-   ![Image](https://github.com/user-attachments/assets/e43ef65c-0328-4ae3-849b-9267e21a605e)
+   ![Image](https://github.com/dilipkumar6416/Business-insights-360/blob/main/Finanace%20View.PNG)
+
 
 3. 💼 **Sales View**
-   ![Image](https://github.com/user-attachments/assets/bcd6111c-0246-4587-be16-77686c97228b)
+   ![Image](https://github.com/dilipkumar6416/Business-insights-360/blob/main/Sales%20View.PNG)
+
 
 4. 📣 **Marketing View**
-   ![Image](https://github.com/user-attachments/assets/47ad9bf2-dba0-4cac-8b0d-f4a3e849b794)
+   ![Image](https://github.com/dilipkumar6416/Business-insights-360/blob/main/Marketing%20View.PNG)
+
 
 5. 🏗️ **Supply Chain View**
-   ![Image](https://github.com/user-attachments/assets/84970972-eb15-440b-8ca1-ce8be41daae7)
+   ![Image](https://github.com/dilipkumar6416/Business-insights-360/blob/main/Supply%20Chain%20View.PNG
+)
+
 
 6. 👔 **Executive View**
-   ![Image](https://github.com/user-attachments/assets/a73c0f2b-24b5-4224-a5c4-af4e4616c34f).
+   ![Image](https://github.com/dilipkumar6416/Business-insights-360/blob/main/Executive%20View.PNG).
 
 ---
 
