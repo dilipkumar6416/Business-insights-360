@@ -65,7 +65,7 @@ Data was structured for effective extraction, transformation, loading (ETL), and
 This multi-page report consists of:
 
 1. 🏠 **Home View**
- 
+ https://github.com/dilipkumar6416/Business-insights-360/blob/main/Home.PNG
 
 2. 💰 **Finance View**
    ![Image](https://github.com/user-attachments/assets/e43ef65c-0328-4ae3-849b-9267e21a605e)
